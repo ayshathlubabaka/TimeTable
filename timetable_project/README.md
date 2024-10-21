@@ -14,7 +14,7 @@ This project is designed to generate timetables for courses, subjects, and staff
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ayshathlubabaka/timetable_project.git
+   git clone https://github.com/ayshathlubabaka/TimeTable.git
    cd timetable
    ```
 
